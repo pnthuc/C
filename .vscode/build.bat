@@ -15,6 +15,6 @@ del files.txt
 
 @REM cd %CD% && COPY.exe
 
-"%CD%\main.exe"
+@REM "%CD%\main.exe"
 
 @REM 
